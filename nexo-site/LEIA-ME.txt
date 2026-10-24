@@ -1,0 +1,19 @@
+NEXO — site de apresentação
+
+COMO ABRIR
+1. Extraia o arquivo ZIP inteiro.
+2. Abra a pasta nexo-site.
+3. Dê dois cliques em index.html para abrir no navegador.
+
+IMAGENS
+Todas as imagens usadas pelo site estão na pasta assets. Não mova o index.html para fora dessa pasta e não renomeie os arquivos dentro de assets, pois o HTML referencia esses caminhos.
+
+MARCAS
+- NEXO: logo e painel de catálogo incluídos a partir da imagem enviada.
+- VOLT: as duas imagens enviadas aparecem em uma seção separada para não misturar as marcas.
+
+ACADEMIAS
+A seção de academias está preparada, mas ainda não exibe nomes/endereço porque esses dados não foram enviados. Atualize o texto da seção com academias confirmadas antes de publicar.
+
+OBSERVAÇÃO
+Este é um protótipo/apresentação visual. Confirme informações de produtos, ingredientes, capacidades, parceiros e meios de contato antes de usar comercialmente.
